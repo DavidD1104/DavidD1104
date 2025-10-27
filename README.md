@@ -1,9 +1,10 @@
 ## Hola, Soy David Domingo 👋
 
 <h3 align="center">| Ingeniero en electrónica y automática | </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/david-domingo1104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-domingo1104" height="30" width="40" /></a>
 <a href = "mailto: david.domingo.1104@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-
+</p>
 
 <!--
 **DavidD1104/DavidD1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
