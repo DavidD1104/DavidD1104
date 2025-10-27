@@ -7,6 +7,19 @@
 <a href = "mailto: david.domingo.1104@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
+<p align="center"> Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
+  Tengo especial interés en robótica, visión artificial e inteligencia artificial. </p>
+<br>
+
+<h3 >Tecnologías conocidas👨🏻‍💻</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,opencv,ros,gcp&perline=5" />
+  </a>
+</p>
+<br>
+
+
 <!--
 **DavidD1104/DavidD1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
