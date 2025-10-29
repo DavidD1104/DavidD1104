@@ -14,7 +14,7 @@
 <h3 >Tecnologías conocidas👨🏻‍💻</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,opencv,ros,gcp&perline=5" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,ros,gcp&perline=6" />
   </a>
 </p>
 <br>
