@@ -1,40 +1,47 @@
 
 ## Hola, Soy David Domingo 👋
 
-<h3 align="center">| Ingeniero en electrónica y automática | </h3>
+<h3 align="center">| Ingeniero en electrónica y automática |</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" width="35" />
   </a>
   <a href="mailto:david.domingo.1104@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" width="35" />
+  </a>
+  <a href="https://github.com/DavidD1104" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="35" />
   </a>
 </p>
 
-<p align="center"> Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
-  Tengo especial interés en robótica, visión artificial e inteligencia artificial. </p>
-<br>
+<p align="center">
+  Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
+  Tengo especial interés en robótica, visión artificial e inteligencia artificial.
+</p>
 
-<h3 >Tecnologías conocidas👨🏻‍💻</h3>
+---
+
+<h3 align="left">🛠 Tecnologías conocidas</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,ros,gcp&perline=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,ros,gcp&perline=6" />
 </p>
-<br>
 
+---
 
-<!--
-**DavidD1104/DavidD1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">📂 Proyectos destacados</h3>
+<ul>
+  <li><a href="https://github.com/DavidD1104/mot17-detection-tracking">MOT17 Detection & Tracking</a> – Proyecto en Python para seguimiento de objetos.</li>
+  <li><a href="https://github.com/DavidD1104/transformer-segmentation-sam2">Transformer Segmentation SAM2</a> – Segmentación avanzada con Transformers.</li>
+  <li><a href="https://github.com/DavidD1104/Mechatronics-proyect-with-Computer-Vision-and-MQTT">Mechatronics con CV y MQTT</a> – Proyecto de mecatrónica con visión por computadora e IoT.</li>
+</ul>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">📫 Contacto</h3>
+<p>
+  <a href="mailto:david.domingo.1104@gmail.com">✉️ Gmail</a> | 
+  <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">🔗 LinkedIn</a> | 
+  <a href="https://github.com/DavidD1104" target="_blank">💻 GitHub</a>
+</p>
+
