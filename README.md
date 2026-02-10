@@ -3,8 +3,12 @@
 
 <h3 align="center">| Ingeniero en electrónica y automática | </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/david-domingo1104" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-domingo1104" height="30" width="40" /></a>
-<a href = "mailto: david.domingo.1104@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:david.domingo.1104@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 <p align="center"> Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
