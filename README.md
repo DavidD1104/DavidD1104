@@ -33,7 +33,7 @@
 <ul>
   <li><a href="https://github.com/DavidD1104/mot17-detection-tracking">MOT17 Detection & Tracking</a> – Proyecto en Python para seguimiento de objetos.</li>
   <li><a href="https://github.com/DavidD1104/transformer-segmentation-sam2">Transformer Segmentation SAM2</a> – Segmentación avanzada con Transformers.</li>
-  <li><a href="https://github.com/DavidD1104/Mechatronics-proyect-with-Computer-Vision-and-MQTT">Mechatronics con CV y MQTT</a> – Proyecto de mecatrónica con visión por computadora e IoT.</li>
+  <li><a href="https://github.com/DavidD1104/Mechatronics-proyect-with-Computer-Vision-and-MQTT">Mechatronics con OpenCV y MQTT</a> – Proyecto de mecatrónica con visión artificial e IoT.</li>
 </ul>
 
 ---
