@@ -1,7 +1,7 @@
 
 ## Hola, Soy David Domingo 👋
 
-<h3 align="center">| Ingeniero en electrónica y automática |</h3>
+<h3 align="center">| Ingeniero en electrónica industrial y automática |</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">
