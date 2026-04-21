@@ -3,17 +3,25 @@
 
 <h3 align="center">| Ingeniero en electrónica industrial y automática |</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" width="35" />
-  </a>
-  <a href="mailto:david.domingo.1104@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" width="35" />
-  </a>
-  <a href="https://github.com/DavidD1104" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="35" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/david-domingo1104" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" width="35" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:david.domingo.1104@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="35" width="35" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/DavidD1104" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="35" width="35" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
