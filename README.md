@@ -24,7 +24,7 @@
 </table>
 
 <p align="center">
-  Soy David Domingo, estudiante de último año de ingeniería en electrónica industrial y automática en la Universidad de Valladolid.<br>
+  Soy David Domingo, ingeniero en electrónica industrial y automática en la Universidad de Valladolid.<br>
   Tengo especial interés en robótica, visión artificial e inteligencia artificial.
 </p>
 
